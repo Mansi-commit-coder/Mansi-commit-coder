@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height = "250px" src="https://https://images.app.goo.gl/yoGbdwG73SqNu9Wf9arkdown-in-readme-md-files&tbnid=umgxNi-CjhYryM&vet=1&docid=Y4PcxTBKIsCszM&w=600&h=280&hl=en&source=sh%2Fx%2Fim" alt="cover" />
+<img width="100%" height = "250px" src=https://images.app.goo.gl/u3jzFaWgwKoQymJaAn-readme-md-files&tbnid=umgxNi-CjhYryM&vet=1&docid=Y4PcxTBKIsCszM&w=600&h=280" alt="cover" />
 
 </div>
 

@@ -15,11 +15,6 @@
 
 <p align = 'center'>
 
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/mansi-sinha-238648198'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-
-<a href = 'https://www.facebook.com/mansi.sinha.794628'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-
-<a href = 'https://www.github.com/Mansi-commit-coder'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
 

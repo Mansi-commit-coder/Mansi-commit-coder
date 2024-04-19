@@ -12,7 +12,6 @@
 
 <div size='20px'> Hi! My name is Mansi. Thank You for taking the time to view my GitHub Profile :smile: 
 
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align = 'center'>
 
@@ -75,6 +74,8 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-light)
+
+
 
 
 
